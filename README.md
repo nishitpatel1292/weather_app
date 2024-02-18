@@ -3,7 +3,7 @@
 ![image](https://github.com/nishitpatel1292/weather_app/assets/73834549/4e9c06a7-22e3-4281-ba9d-adbb57acab0b)
 
 # API
-I have used openweathermap for fetching Weather data and display them in intuitive design
+I have used openweathermap for fetching Weather data and displayed them with intuitive design
 
 # Special element
 
