@@ -1,3 +1,7 @@
+# Screenshot of the UI
+
+![image](https://github.com/nishitpatel1292/weather_app/assets/73834549/ffafa987-efa7-411d-bd1d-71608eab8e65)
+
 # API
 I have used openweathermap for fetching Weather data and display them in intuitive design
 
